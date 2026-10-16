@@ -30,6 +30,9 @@ build.ninja
 Makefile
 *.cmake.stamp
 
+# CMake build definition (not published to the remote)
+CMakeLists.txt
+
 # ============================================================
 #  Ignored: compiled objects, libraries and binaries
 # ============================================================
